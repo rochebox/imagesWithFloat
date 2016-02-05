@@ -1,0 +1,46 @@
+
+
+@font-face {
+font-family: GoodDog;
+src: url("../fonts/GoodDog/GoodDog.otf") format("opentype");
+}
+
+
+/* hi have a nice day */
+
+
+body {
+
+background-image: url('../images/stars.jpg'), url('../images/yellowB.jpg') ;
+background-repeat: repeat-y;, repeat;
+background-size: 200px, 100%;
+
+background-color: #6666ff;
+}
+
+.floatRight{
+	float: right;
+}
+
+.floatLeft{
+	float: left;
+}
+
+.clearIt {
+	clear both;
+}
+
+h1 {
+
+	font-family: GoodDog, Helvetica, Verdana, Sans-Serif;
+	font-size: 4em;
+	margin-left: 250px;
+
+}
+	
+.bodyText {
+	margin-left: 250px;
+	font-size:1.5em;
+
+}	
+
