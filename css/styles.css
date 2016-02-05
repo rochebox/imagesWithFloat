@@ -44,3 +44,10 @@ h1 {
 
 }	
 
+.caption {
+	text-align: center;
+	font-family: GoodDog, Helvetica, Verdana, Sans-Serif;
+	font-size: 14pt;
+	color: blue;
+}
+
