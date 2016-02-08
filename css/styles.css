@@ -44,6 +44,19 @@ h1 {
 
 }	
 
+.inLineToBlock{
+	display: block;
+
+}
+
+img.centerImage{
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+   border: 3px solid blue;
+
+}
+
 .caption {
 	text-align: center;
 	font-family: GoodDog, Helvetica, Verdana, Sans-Serif;
